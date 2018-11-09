@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="toleranceparameter">ToleranceParameter</string>
+    <string name="randomseed">Randomseed</string>
+    <string name="numfolds">NumFolds</string>
+    <string name="numdecimalplaces">NumDecimalPlaces</string>
+    <string name="kernel">Kernel</string>
+    <string name="epsilon">Epsilon</string>
+    <string name="c">C</string>
+    <string name="batch_size">Batch Size</string>
+    <string name="bagsizepercent">bagsizepercent</string>
+    <string name="maxdepth">Maxdepth</string>
+    <string name="numexecutionslots">Numexecutionslots</string>
+    <string name="numfeatures">numfeatures</string>
+    <string name="numiterations">Numiterations</string>
+    <string name="seed">Seed</string>
+    <string name="default1">Default</string>
+    <string name="filtertype">Filtertype</string>
+    <string name="confidence_factor">confidence factor</string>
+    <string name="min_num_obj">Min num obj</string>
+    <string name="reset">Reset</string>
+    <string name="train_percentage">Train percentage</string>
+    <string name="selected_classifiers">Selected Classifiers:</string>
+    <string name="next">Next</string>
+    <string name="download_model">Download model</string>
+    <string name="log">Log</string>
+    <string name="log_data">Log data</string>
+</resources>
